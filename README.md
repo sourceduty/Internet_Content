@@ -1,6 +1,6 @@
 # International Internet Content Regulation 
 
-![Websites](https://github.com/sourceduty/Internet_Content/assets/123030236/12265d45-dbf7-4a3f-a117-743fdd337e4e)
+![Hacker](https://github.com/sourceduty/Internet_Content/assets/123030236/a4e21c82-60ab-469a-a410-caad5eae3931)
 
 ### Overview of Key Organizations and Challenges
 
