@@ -1,10 +1,8 @@
-# International Internet Content Regulation 
-
 ![Hacker](https://github.com/sourceduty/Internet_Content/assets/123030236/a4e21c82-60ab-469a-a410-caad5eae3931)
 
-### Overview of Key Organizations and Challenges
+> International internet content regulation, key organizations, and challenges due to the lack of a single global authority.
 
-## Introduction:
+#
 
 The regulation of internet content on a global scale is a complex and multifaceted issue, with no single international agency holding direct authority over it. Instead, internet content regulation is primarily the responsibility of individual countries, each enacting its own laws and regulations. However, there are several international organizations and initiatives that play significant roles in shaping various aspects of internet governance and content regulation. This report provides an overview of these key organizations and initiatives as of January 2022.
 
@@ -54,8 +52,15 @@ The borderless nature of the internet makes it challenging to enforce content re
 
 Determining jurisdiction and legal responsibility for content hosted on international platforms or servers can be a complex and contentious issue. This can hinder efforts to address illegal or harmful content.
 
-## Conclusion:
+### Conclusion:
 
 Internet content regulation remains primarily within the jurisdiction of individual countries, with substantial variation in laws and regulations worldwide. While international organizations and initiatives play essential roles in shaping internet governance and discussing content regulation, they lack direct authority to enforce such regulations globally.
 
 The problems stemming from the absence of a single international agency for internet content regulation are evident in the inconsistencies, censorship concerns, technological challenges, and jurisdictional issues that persist. The regulatory landscape is dynamic and subject to change, requiring ongoing dialogue and cooperation among nations to address these challenges effectively. As of January 2022, the field of internet content regulation remains a complex and evolving domain.
+
+#
+
+![Internet IRL](https://github.com/user-attachments/assets/6a89bb60-add4-48c7-9ae1-9c0ea757f711)
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
