@@ -6,7 +6,7 @@
 
 The regulation of internet content on a global scale is a complex and multifaceted issue, with no single international agency holding direct authority over it. Instead, internet content regulation is primarily the responsibility of individual countries, each enacting its own laws and regulations. However, there are several international organizations and initiatives that play significant roles in shaping various aspects of internet governance and content regulation. This report provides an overview of these key organizations and initiatives as of January 2022.
 
-## Key Organizations and Initiatives:
+### Key Organizations and Initiatives:
 
 ### 1. Internet Corporation for Assigned Names and Numbers (ICANN):
 
@@ -32,7 +32,7 @@ Regional bodies, such as the European Union (EU), have implemented regulations c
 
 Certain countries have entered into bilateral or multilateral agreements to address specific internet-related issues, such as cybersecurity or data sharing. These agreements can indirectly impact content regulation.
 
-## Challenges Arising from Lack of a Single International Agency:
+### Challenges Arising from Lack of a Single International Agency:
 
 While the current system of internet content regulation allows individual countries to enact laws that align with their cultural and legal norms, it also presents several challenges:
 
