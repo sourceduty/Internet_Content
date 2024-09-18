@@ -32,6 +32,7 @@ Regional bodies, such as the European Union (EU), have implemented regulations c
 
 Certain countries have entered into bilateral or multilateral agreements to address specific internet-related issues, such as cybersecurity or data sharing. These agreements can indirectly impact content regulation.
 
+#
 ### Challenges Arising from Lack of a Single International Agency:
 
 While the current system of internet content regulation allows individual countries to enact laws that align with their cultural and legal norms, it also presents several challenges:
